@@ -1,1 +1,25 @@
+{
+  "name": "INTELSCAN — Covert Lie Detector",
+  "short_name": "INTELSCAN",
+  "description": "Covert lie detector prank app",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#060907",
+  "theme_color": "#060907",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
 
